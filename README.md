@@ -62,7 +62,5 @@ You can modify the `color_producer` function in the script to change the color s
 
 Feel free to fork this repository and submit pull requests with improvements or additional features.
 
-## License
 
-[Specify your chosen license here]
 
